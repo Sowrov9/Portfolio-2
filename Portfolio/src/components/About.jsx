@@ -12,22 +12,22 @@ const About = () => {
             {/*end ts-title*/}
             <div className="row ts-align__vertical">
                 <div className="col-md-6">
-                <img src="assets/img/img-man-looking.jpg" alt className="mw-100 mb-5" />
+                <img src="assets/img/abc.png" alt className="mw-100 mb-5" />
                 </div>
                 <div className="col-md-6">
                 <h4 className="ts-bubble-border">Hi There</h4>
                 <p>
-                    In id nulla magna. Nullam posuere fermentum mattis. Nunc id dui at sapien faucibus fermentum
-                    ut vel diam. Nullam tempus, nunc id efficitur sagittis, urna est ultricies eros, ac porta
-                    sem turpis quis leo. Nulla in feugiat elit.
+                I'm Sowrov Ahammed, a passionate web developer dedicated to crafting visually appealing and highly functional websites. With expertise in modern web technologies like HTML, CSS, JavaScript, and frameworks such as React or Vue.js, I transform ideas into dynamic online experiences. My focus is on clean design, responsive layouts, and seamless user interactions to ensure every project stands out. Let’s collaborate to bring your vision to life online!"
+
+
                 </p>
                 <dl className="ts-column-count-2">
                     <dt>Name:</dt>
-                    <dd>Jonathan Doe</dd>
+                    <dd>Sowrov Ahammed</dd>
                     <dt>Phone:</dt>
-                    <dd>+1 908-736-1801</dd>
+                    <dd>+880 1876429199</dd>
                     <dt>Email:</dt>
-                    <dd>hello@example.com</dd>
+                    <dd>mdsowrovahmed@gmail.com</dd>
                     <dt>Twitter:</dt>
                     <dd>freelancer9</dd>
                 </dl>

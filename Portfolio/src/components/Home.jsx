@@ -27,12 +27,13 @@ const Home = () => {
           </a>
         </figure>
         {/*TITLE */}
-        <h1>I am Jonathan Doe</h1>
+        <h1 className="text-dark">I am Sowrov Ahammed</h1>
         <h1 className="ts-bubble-border">
-          <span className="ts-title-rotate">
-            <span className="active">Designer</span>
-            <span>Photographer</span>
-            <span>Creative Person</span>
+          <span className="ts-title-rotate text-dark">
+            <span className="active">Developer</span>
+            <span >Designer</span>
+            <span >Programmer</span>
+            <span >Creative Person</span>
           </span>
         </h1>
       </div>

@@ -6,7 +6,7 @@ const Header = () => {
                 <nav className="navbar navbar-expand-lg navbar-light fixed-top bg-white">
         <div className="container">
             <a className="navbar-brand ts-push-down__50 position-absolute ts-bottom__0 bg-white pb-0 ts-z-index__1 ts-scroll" href="#page-top">
-            <img src="assets/img/logo.png" alt />
+            <img src="assets/img/logo.jpg" alt />
             </a>
             {/*end navbar-brand*/}
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">

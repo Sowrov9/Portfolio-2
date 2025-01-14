@@ -23,7 +23,8 @@ const Services = () => {
             <div className="ts-item-body">
               <h4>Web Design</h4>
               <p className="mb-0">
-                Duis molestie enim mattis gravida viverra. Fusce ut eros augue. Sed id mauris vel neque
+              Designing Stunning Websites 
+              that Meet Your Needs Effortlessly
               </p>
             </div>
             {/*end ts-item-body*/}
@@ -44,13 +45,13 @@ const Services = () => {
           <div className="ts-item-content">
             <div className="ts-item-header">
               <figure className="icon">
-                <img src="assets/img/icon-camera.png" alt />
+                <img src="assets/img/icon-lcd.png" alt />
               </figure>
               {/*end icon*/}
             </div>
             {/*end ts-item-header*/}
             <div className="ts-item-body">
-              <h4>Photography</h4>
+              <h4>Web Development</h4>
               <p className="mb-0">
                 Fusce lorem ex, fringilla eget consequat ut, molestie sit amet nibh. Nullam vitae tincidunt
               </p>
@@ -73,13 +74,13 @@ const Services = () => {
           <div className="ts-item-content">
             <div className="ts-item-header">
               <figure className="icon">
-                <img src="assets/img/icon-video.png" alt />
+                <img src="assets/img/icon-pencil.png" alt />
               </figure>
               {/*end icon*/}
             </div>
             {/*end ts-item-header*/}
             <div className="ts-item-body">
-              <h4>Video Editing</h4>
+              <h4>Solving Problem</h4>
               <p className="mb-0">
                 Aenean pretium nulla libero, vitae iaculis libero efficitur a. Fusce ut augue finibus quam
               </p>

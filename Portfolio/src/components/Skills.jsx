@@ -14,39 +14,33 @@ const Skills = () => {
       <div className="row">
         <div className="col-md-6">
           <p>
-            In id nulla magna. Nullam posuere fermentum mattis. Nunc id dui at sapien faucibus fermentum
-            ut vel diam. Nullam tempus, nunc id efficitur sagittis, urna est ultricies eros, ac porta
-            sem turpis quis leo. Nulla in feugiat elit.
+          As a web developer, I bring a versatile skill set to the table, including proficiency in HTML, CSS, JavaScript, and frameworks like React and Angular. I excel in creating responsive and user-friendly interfaces, ensuring websites look great and perform seamlessly on any device. Beyond front-end development, I have experience with back-end technologies like Node.js and database management with MongoDB or MySQL. My skills also extend to version control with Git, enabling efficient collaboration and streamlined project workflows.
           </p>
-          <p>
-            Phasellus accumsan scelerisque dolor, quis mattis justo bibendum non. Nulla sollicitudin
-            turpis in enim elementum varius. Vestibulum ante ipsum primis in faucibus orci luctus
-            et ultrices posuere cubilia Curae
-          </p>
+          
           <a href="#contact" className="btn btn-outline-light mb-5">Contact Me</a>
         </div>
         {/*end col-md-6*/}
         <div className="col-md-6">
           <div className="progress" data-progress-width="100%">
-            <h5 className="ts-progress-title">Webdesign</h5>
+            <h5 className="ts-progress-title">Web development</h5>
             <figure className="ts-progress-value" />
             <div className="progress-bar" role="progressbar" aria-valuenow={0} aria-valuemin={0} aria-valuemax={100} />
           </div>
           {/*end progress*/}
           <div className="progress" data-progress-width="80%">
-            <h5 className="ts-progress-title">Photography</h5>
+            <h5 className="ts-progress-title">Web Design</h5>
             <figure className="ts-progress-value" />
             <div className="progress-bar" role="progressbar" aria-valuenow={0} aria-valuemin={0} aria-valuemax={100} />
           </div>
           {/*end progress*/}
           <div className="progress" data-progress-width="90%">
-            <h5 className="ts-progress-title">Coding</h5>
+            <h5 className="ts-progress-title">Solving problem</h5>
             <figure className="ts-progress-value" />
             <div className="progress-bar" role="progressbar" aria-valuenow={0} aria-valuemin={0} aria-valuemax={100} />
           </div>
           {/*end progress*/}
           <div className="progress" data-progress-width="60%">
-            <h5 className="ts-progress-title">Copywriting</h5>
+            <h5 className="ts-progress-title">Coding</h5>
             <figure className="ts-progress-value" />
             <div className="progress-bar" role="progressbar" aria-valuenow={0} aria-valuemin={0} aria-valuemax={100} />
           </div>
